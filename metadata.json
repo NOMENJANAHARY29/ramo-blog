@@ -1,0 +1,6 @@
+{
+  "name": "Ramo Blog - Digital Journal",
+  "description": "Plateforme éditoriale et micro-blog moderne, interactif et responsive pour les articles de veille tech, design et IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
